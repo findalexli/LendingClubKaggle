@@ -198,8 +198,8 @@ What does the various columns mean? We can rely on the dictionary provided by th
 
 
 ```python
-df_description = pd.read_excel('./input/LCDataDictionary.xlsx').dropna()
-df_description.style.set_properties(subset=['Description'], **{'width': '1000px'})
+#df_description = pd.read_excel('./input/LCDataDictionary.xlsx').dropna()
+#df_description.style.set_properties(subset=['Description'], **{'width': '1000px'})
 ```
 
 ## Exploratory Data Analytics
