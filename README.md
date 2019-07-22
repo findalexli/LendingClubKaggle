@@ -1,6 +1,9 @@
 
 ![LendingClub](https://www.personalincome.org/wp-content/uploads/2015/09/lending-club-logo.png)
 
+<a href="https://colab.research.google.com/github//findalexli/LendingClubKaggle/blob/master/LendingClub.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ```python
 # The Python 3 environment comes with many helpful analytics libraries installed
