@@ -1053,7 +1053,7 @@ feat_importance = kfold_lightgbm(df, num_folds= 5, stratified= False)
 
 
 
-![png](To_be_converted_files/To_be_converted_130_2.png)
+![png](README_files/README_130_2.png)
 
 
 
@@ -1666,7 +1666,7 @@ feat_importance = kfold_lightgbm(df, num_folds= 3, stratified= False)
 
 
 
-![png](To_be_converted_files/To_be_converted_193_2.png)
+![png](README_files/README_193_2.png)
 
 
 
@@ -2227,7 +2227,7 @@ feat_importance = kfold_lightgbm(df, num_folds= 3, stratified= False)
 
 
 
-![png](To_be_converted_files/To_be_converted_237_2.png)
+![png](README_files/README_237_2.png)
 
 
 For a training time of 25 minutes and 25 secs, boosting training is finished with 0.9986 accuracy
